@@ -106,29 +106,11 @@ Capitoday is a memecoin analytics and discovery platform that tracks real-time p
 
 ---
 
-## Tech Stack
-
-- **Frontend:** Next.js
-- **Backend:** Node.js / JavaScript
-- **Data Sources:** CoinGecko API, DexScreener API, custom RPC endpoints
-- **Multi-Chain:** Solana, Base, Ethereum, BNB
-- **Bot:** Telegram Bot integration ([@capitoday_realbot](https://t.me/capitoday_realbot))
-- **Email:** Zoho Mail
-
----
 
 ## Roadmap
 
 - "My Capitoday" — Personal user dashboard and command center
-- "Planner" — Task planner with templates (Call-To-Vote, Posting Streak Goal, Market Cap Countdown, Chart Post, Trending Post)
-- Full gamification system — Points, gems, streaks, achievements, badges
-- Preview Mode for new coin listings with graduation paths
-- Verified Coin Pages with team admin dashboards
-- Updates Feed for coin teams to publish directly
-- Crypto Events calendar with community submissions
-- Curated dashboards for cult coins
-- In-depth historical analytics
-
+-
 
 ---
 
