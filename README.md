@@ -4,9 +4,9 @@
 
 # Capitoday
 
-**Memecoin Analytics & Discovery Platform**
+**Coin Discovery Platform**
 
-Real-time price tracking, community voting, interactive charts, and tools for meme coin traders, holders, and communities — across multiple blockchains.
+Price tracking, community voting, interactive charts, and tools for meme coin communities — across multiple blockchains.
 
 [![Website](https://img.shields.io/badge/Website-capitoday.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://capitoday.com)
 [![X/Twitter](https://img.shields.io/badge/X-@capitoday-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/capitoday)
@@ -22,9 +22,8 @@ Real-time price tracking, community voting, interactive charts, and tools for me
 
 Meme coins are more than speculation — they're culture, community, and signal. **Capitoday gives that signal a voice.**
 
-Capitoday is a memecoin analytics and discovery platform that tracks real-time price, market cap, and community strength across multiple blockchains. It provides transparent data for traders, holders, and communities — visualized through interactive charts, dashboards, and rankings.
+Capitoday is a gamified coin tracker and discovery platform that tracks price, market cap, and community strength across multiple blockchains. 
 
-**Our mission:** Empower crypto users with transparent, accessible, and engaging tools that make it easy to understand and compare meme coins — beyond the hype.
 
 ---
 
@@ -93,18 +92,6 @@ Capitoday is a memecoin analytics and discovery platform that tracks real-time p
 
 ---
 
-## What Makes Capitoday Different
-
-| Feature | Capitoday | Typical Aggregators |
-|---------|-----------|---------------------|
-| Community Voting | Live voting that drives rankings | Passive data only |
-| DexStatus Tool | Free Dex Screener payment verification | Not available |
-| Gamified Engagement | Points, boosting, levels, streaks | None |
-| Chain-Specific Dashboards | Dedicated views per chain | Generic multi-chain |
-| Coin Listings | Free and fast | Often paid or slow |
-| Community Rankings | Driven by holder growth + votes | Market cap only |
-
----
 
 
 ## Roadmap
