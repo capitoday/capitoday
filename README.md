@@ -11,8 +11,6 @@ Price tracking, community voting, interactive charts, and tools for meme coin co
 [![Website](https://img.shields.io/badge/Website-capitoday.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://capitoday.com)
 [![X/Twitter](https://img.shields.io/badge/X-@capitoday-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/capitoday)
 [![Reddit](https://img.shields.io/badge/Reddit-r/Capitoday-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Capitoday/)
-[![Blog](https://img.shields.io/badge/Blog-blog.capitoday.com-FFD700?style=for-the-badge&logo=hashnode&logoColor=black)](https://blog.capitoday.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-Capitoday-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TocyOlkvlYg)
 
 </div>
 
@@ -30,17 +28,16 @@ Capitoday is a gamified coin tracker and discovery platform that tracks price, m
 ## Key Features
 
 ### Data & Analytics
-- **Real-Time Market Data** — Price, 24h volume, holder count, market cap, and vote totals updated live
-- **Coin Profiles** — Dedicated pages with price comparison charts, market cap charts, holder vs. market cap analysis, and engagement stats
+- **Market Data** — Price, 24h volume, market cap, and vote totals
+- **Coin Profiles** — Dedicated pages with price comparison charts, market cap charts and engagement stats
 - **Flexible Chart Timeframes** — 7D, 14D, 30D, 3M, 6M, 1Y, YTD, MAX
 - **Multi-Coin Compare** — Side-by-side comparison of any coins with interactive performance tracking
-- **Pair Compare** — Head-to-head comparison of any two tokens
 - **Gainers & Losers Dashboard** — Track top movers in real time
 - **New Tokens** — Discover newly listed tokens as they appear
 
 ### Community & Engagement
 - **Community Voting** — User-driven signals that determine rankings and ad eligibility. Vote for your coins daily and contribute to public engagement signals
-- **Top Communities Leaderboard** — Daily rankings by holder growth and voting activity
+- **Top Communities Leaderboard** — Daily rankings by market growth and voting activity
 - **Boosting & Levels** — Earn points through voting, boost coin visibility, climb the ranks
 - **Gamified Consistency** — Rewards sustained participation over one-off spikes. Streaks, achievements, and badges are coming
 
@@ -53,7 +50,6 @@ Capitoday is a gamified coin tracker and discovery platform that tracks price, m
 - **DexStatus** — Free tool that verifies whether a token's dev has paid for Enhanced Token Info on Dex Screener. Just drop a contract address for instant verification
 - **Coin Compare** — Compare market caps of any two or more cryptocurrencies
 - **Watchlist** — Personalized watchlist to monitor prices, market cap, and 24h changes
-- **Ranked Lists** — Create and share ranked lists of your favorite coins; the community decides who's top-tier
 
 ### Listings
 - **Free & fast** listing process for meme coin projects
