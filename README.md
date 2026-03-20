@@ -129,13 +129,6 @@ Capitoday is a memecoin analytics and discovery platform that tracks real-time p
 - Curated dashboards for cult coins
 - In-depth historical analytics
 
----
-
-## Partnerships & Listings
-
-- Listed on [Alchemy Dapp Store](https://www.alchemy.com/dapps) (Analytics Tools, DeFi Tools)
-- Lancers Technology Web3Explorer
-- RecapThisBot / RECAP TRENDING network integration
 
 ---
 
@@ -147,14 +140,4 @@ Capitoday is a memecoin analytics and discovery platform that tracks real-time p
 - **YouTube:** [Capitoday](https://www.youtube.com/watch?v=TocyOlkvlYg)
 - **Telegram Bot:** [@capitoday_realbot](https://t.me/capitoday_realbot)
 
----
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
----
-
-## License
-
-Copyright &copy; 2025 Capitoday. All rights reserved.
